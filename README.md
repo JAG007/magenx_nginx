@@ -1,5 +1,6 @@
 ***Default Nginx config for Magento***
-
+NOT THE OFFICIAL PROJECT
+PLEASE VISIT
 DEMO: https://www.magenx.com
 
 Get cloud server: at [DigitalOcean](https://m.do.co/c/ccc5d115377f)
